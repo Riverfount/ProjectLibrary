@@ -8,4 +8,5 @@ public class Employee {
     private Integer registrationNumber;
     private Instant hireDate;
     private Double salary;
+    private Address address;
 }

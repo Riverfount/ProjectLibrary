@@ -10,5 +10,5 @@ public class Book {
     private String genre;
     private Integer quantity;
     private Integer availableCopies;
-
+    private Category category;
 }

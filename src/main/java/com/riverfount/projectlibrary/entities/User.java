@@ -6,7 +6,7 @@ public class User {
     private Long id;
     private String name;
     private String CPF;
-    private String address;
+    private Address address;
     private String phone;
     private String email;
     private Instant createdAt;

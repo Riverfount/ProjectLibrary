@@ -4,6 +4,6 @@ public class Publisher {
     private Long id;
     private String name;
     private String CNPJ;
-    private String address;
+    private Address address;
     private String phone;
 }
